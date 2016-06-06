@@ -1,13 +1,14 @@
 {
-  "name": "omniscient-starter-pack",
+  "name": "dfhq",
   "version": "1.0.0",
-  "description": "omniscient+immstruct es6 starter pack",
+  "description": "Dynasty Fantasy Head Quarters",
   "main": "hot-reload-server.js",
   "dependencies": {
     "immstruct": "^2.0.0",
+    "jquery": "^2.2.4",
     "omniscient": "^4.0.0",
-    "react-dom": "^0.14.0",
-    "react": "^0.14.0"
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
   },
   "devDependencies": {
     "autoprefixer-loader": "^2.0.0",
